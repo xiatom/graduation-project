@@ -1,0 +1,45 @@
+
+
+.pic {
+    background-image:  url('/img/header.png');
+    background-color: #170420;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    margin-top: -55px;
+    height: 300px;
+    font-size: 40px;
+}
+
+body{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.code-block {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: gray;
+}
+
+.code-style {
+    display: block;
+    background: #1d1f21;
+    color: #c5c8c6;
+    font-family: "Fira Code", "Source Code Pro", Menlo, Monaco, Consolas, monospace;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.article-body {
+    /* margin: auto; */
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+}
+
+#article-content {
+    text-align: justify;
+    font-size: large;
+}
